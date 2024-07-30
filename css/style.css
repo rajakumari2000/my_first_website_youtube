@@ -1,0 +1,61 @@
+body{
+   background-image:url('../images/pg1.avif') ; 
+   background-position: center;
+   background-repeat: no-repeat;
+   background-size: cover;
+   
+   
+}
+
+
+
+
+
+.login_form{
+    padding:3px solid black ;
+    text-align: center;
+    margin-top:180px ;
+    margin-left:30px ;
+    margin-right:30px ; 
+}
+.register_form{
+    padding:3px solid black ;
+    text-align: center;
+    margin-top:180px ;
+    margin-left:30px ;
+    margin-right:30px ;
+}
+.header{
+     padding:3px solid black ;
+     text-align: center;
+
+}
+.nav ul{
+    list-style-type:none ;
+    margin: 0% ;
+    padding: 0%;
+     /* border:2px solid black;   */
+     margin-top:3px ; 
+    overflow: hidden;
+    /* background-color: blueviolet; */
+
+}
+.nav ul li{
+  float: left;
+
+}
+.nav ul li a{
+  color:black;
+  font-size:20px ;
+  display: block;
+  /* border:2px solid  black;  */
+  padding:20px ;
+  text-align: center;
+  text-decoration: none;
+}
+
+ .container2{ 
+  margin-left:700px ;
+  height:10px ;
+  width:10px ;
+}
